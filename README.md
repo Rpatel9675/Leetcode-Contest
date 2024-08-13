@@ -1,6 +1,4 @@
-Here’s a README file template for your "Leetcode-Contest" repository:
 
----
 
 # Leetcode-Contest
 
